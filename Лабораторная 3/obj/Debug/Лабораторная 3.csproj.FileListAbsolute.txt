@@ -1,0 +1,10 @@
+C:\Users\Новый пользователь\Desktop\Теория информации\Лабораторная 3\bin\Debug\Лабораторная 3.exe.config
+C:\Users\Новый пользователь\Desktop\Теория информации\Лабораторная 3\bin\Debug\Лабораторная 3.exe
+C:\Users\Новый пользователь\Desktop\Теория информации\Лабораторная 3\bin\Debug\Лабораторная 3.pdb
+C:\Users\Новый пользователь\Desktop\Теория информации\Лабораторная 3\obj\Debug\Лабораторная 3.csproj.AssemblyReference.cache
+C:\Users\Новый пользователь\Desktop\Теория информации\Лабораторная 3\obj\Debug\Лабораторная_3.Form1.resources
+C:\Users\Новый пользователь\Desktop\Теория информации\Лабораторная 3\obj\Debug\Лабораторная_3.Properties.Resources.resources
+C:\Users\Новый пользователь\Desktop\Теория информации\Лабораторная 3\obj\Debug\Лабораторная 3.csproj.GenerateResource.cache
+C:\Users\Новый пользователь\Desktop\Теория информации\Лабораторная 3\obj\Debug\Лабораторная 3.csproj.CoreCompileInputs.cache
+C:\Users\Новый пользователь\Desktop\Теория информации\Лабораторная 3\obj\Debug\Лабораторная 3.exe
+C:\Users\Новый пользователь\Desktop\Теория информации\Лабораторная 3\obj\Debug\Лабораторная 3.pdb
